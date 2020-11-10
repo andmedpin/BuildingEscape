@@ -31,10 +31,6 @@ public:
 	void FindAudioComponent();
 	void FindPressurePlaye();
 
-
-	bool OpenDoorSound = false;
-	bool CloseDoorSound = true;
-
 	bool isAudioPlaying = false;
 private:
 	
